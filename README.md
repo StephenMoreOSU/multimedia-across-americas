@@ -52,17 +52,16 @@ Tradeoffs for comparison:
 
 Felipe Orrico Scognamiglio  
 
-![Felipe](https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png)
-
 <img src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" data-canonical-src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" width="250" height="250" />
 
 Stephen More  
 
-![Stephen](https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg =250x250)
+<img src="https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg" width="250" height="250" />
 
 Jacob Gillette  
 
-![Jacob](https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg =250x250)
+<img src="https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg" width="250" height="250" />
+
 
 Emilio Magaña  
 
