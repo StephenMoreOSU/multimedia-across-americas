@@ -6,7 +6,7 @@ Compression, in all of its forms, allows for more efficient delivery of digital 
 
 ## Motivation
 
-Motivation
+Compression is needed to support the many multimedia applications used by engineers across diverse fields in ECE. Understanding the tradeoffs between cutting-edge compression techniques is important if one intends to implement new designs under the tight engineering constraints of the industry.
 
 ## Background
 
@@ -19,7 +19,7 @@ For each category of compression
 1. With gathered data, create visualizations that can compare the findings in an understandable way
 1. Compare the examples using the tradeoff criteria 
 1. Make a conclusion about which compression methodology is good to use in which situation
-1. Compare new techniques with a baseline that is as standard as possible (264.h for video) 
+1. Compare new techniques with a baseline that is as standard as possible (H.264 for video) 
 
 
 ## References
