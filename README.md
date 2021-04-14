@@ -25,12 +25,12 @@ For each category of compression:
 1. Make a conclusion about which compression methodology is good to use in which situation
 1. Compare new techniques with a baseline that is as standard as possible (H.264 for video) 
 
-Tradeoffs:
-1. Usability - How easy is it to use? How widespread is the support for the compression?
-1. Compression density - How much does it reduce file size?
-1. Compression Computational efficiency - How computationally demanding is the process? How long does it take to compress?
-1. Support moving forward - How maintained is the methodology?
-1. Lossy vs Lossless
+Tradeoffs for comparison:
+* Usability - How easy is it to use? How widespread is the support for the compression?
+* Compression density - How much does it reduce file size?
+* Compression Computational efficiency - How computationally demanding is the process? How long does it take to compress?
+* Support moving forward - How maintained is the methodology?
+* Lossy vs Lossless
 
 
 
