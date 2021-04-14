@@ -12,22 +12,29 @@ Motivation
 
 Background
 
-## The Team
+## The Team <add pictures?>
 
 Felipe Orrico Scognamiglio
-![Felipe](https://avatars.githubusercontent.com/u/67400343?v=4)
+
+![Felipe]()
 
 Stephen More
-![Stephen](https://avatars.githubusercontent.com/u/46539016?s=48&v=4)
+
+![Stephen]()
 
 Jacob Gillette
+
 ![Jacob]()
 
 Emilio Magaña
+
 ![Emilio]()
 
 Hassan Alabdulaziz
+
 ![Hassan]()
 
 
 ## Contact
+
+
