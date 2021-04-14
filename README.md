@@ -32,6 +32,12 @@ Tradeoffs for comparison:
 * Support moving forward - How maintained is the methodology?
 * Lossy vs Lossless
 
+## Task Commissioning
+Felipe Orrico Scognamiglio | Stephen More | Jacob Gillette | Emilio Magaña | Hassan Alabdulaziz
+-------------------------- | ------------ | -------------- | ------------- | ------------------
+Research | Research | Research | Research | Research
+Midterm Report | Midterm Report | Midterm Report | Midterm Report | Midterm Report
+Final Report | Final Report | Final Report | Final Report | Final Report |
 
 
 ## References
@@ -48,27 +54,28 @@ Tradeoffs for comparison:
 
 <sub>“AV1 is a royalty-free video compression format for the web,” Mozilla Research. [Online]. Available: https://research.mozilla.org/av1-media-codecs/  [Accessed: 13-Apr-2021].</sub>
 
-## The Team <add pictures?>
+## The Team
 
-Felipe Orrico Scognamiglio  
+Stephen More (Leader) - [mores@oregonstate.edu](mailto:mores@oregonstate.edu)   
 
-![Felipe]()
+<img src="https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg" width="250" height="250" />
 
-Stephen More  
+Felipe Orrico Scognamiglio - [orricosf@oregonstate.edu](mailto:orricosf@oregonstate.edu)   
 
-![Stephen]()
+<img src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" data-canonical-src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" width="250" height="250" />
 
-Jacob Gillette  
+Jacob Gillette - [gilletja@oregonstate.edu](mailto:gilletja@oregonstate.edu)   
 
-![Jacob]()
+<img src="https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg" width="250" height="250" />
 
-Emilio Magaña  
 
-![Emilio]()
+Emilio Magaña - [maganem@oregonstate.edu](mailto:maganem@oregonstate.edu) 
 
-Hassan Alabdulaziz  
+<img src="https://media.discordapp.net/attachments/829757911298342925/831970096230432848/emilio_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831970096230432848/emilio_-_cropped.jpg" width="250" height="250" />
 
-![Hassan]()
+Hassan Alabdulaziz - [alabduha@oregonstate.edu](mailto:alabduha@oregonstate.edu)  
+
+<img src="https://media.discordapp.net/attachments/829757911298342925/831972317629382666/Hassan_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831972317629382666/Hassan_-_cropped.jpg" width="250" height="250" />
 
 
 ## Contact
