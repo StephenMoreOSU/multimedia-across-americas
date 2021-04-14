@@ -1,17 +1,17 @@
-## Welcome to Multimedia Across Americas
+# Welcome to Multimedia Across Americas
 
-### Introduction
+## Introduction
 
 Introduction
 
-### Motivation
+## Motivation
 
 Motivation
 
-### Background
+## Background
 
 Background
 
-### The Team
+## The Team
 
-### Contact
+## Contact
