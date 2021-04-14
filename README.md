@@ -36,9 +36,7 @@ Tradeoffs for comparison:
 Felipe Orrico Scognamiglio | Stephen More | Jacob Gillette | Emilio Magaña | Hassan Alabdulaziz
 -------------------------- | ------------ | -------------- | ------------- | ------------------
 Research | Research | Research | Research | Research
--------------------------- | ------------ | -------------- | ------------- | ------------------
 Midterm Report | Midterm Report | Midterm Report | Midterm Report | Midterm Report
--------------------------- | ------------ | -------------- | ------------- | ------------------
 
 
 ## References
