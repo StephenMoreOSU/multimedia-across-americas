@@ -48,7 +48,7 @@ Tradeoffs for comparison:
 
 <sub>“AV1 is a royalty-free video compression format for the web,” Mozilla Research. [Online]. Available: https://research.mozilla.org/av1-media-codecs/  [Accessed: 13-Apr-2021].</sub>
 
-## The Team <add pictures?>
+## The Team
 
 Felipe Orrico Scognamiglio  
 
