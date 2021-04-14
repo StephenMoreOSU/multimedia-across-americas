@@ -37,4 +37,10 @@ Hassan Alabdulaziz
 
 ## Contact
 
+Stephen More (Leader) - [mores@oregonstate.edu](mailto:mores@oregonstate.edu)
+Emilio Magaña - [maganem@oregonstate.edu](mailto:maganem@oregonstate.edu)
+Jacob Gillette - [gilletja@oregonstate.edu](mailto:gilletja@oregonstate.edu)
+Felipe Orrico Scognamiglio - [orricosf@oregonstate.edu](mailto:orricosf@oregonstate.edu)
+Hassan Alabdulaziz - [alabduha@oregonstate.edu](mailto:alabduha@oregonstate.edu)
+
 
