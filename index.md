@@ -33,26 +33,26 @@ Tradeoffs for comparison:
 * Lossy vs Lossless
 
 ## Task Commissioning
-Felipe Orrico Scognamiglio | Stephen More | Jacob Gillette | Emilio Magaña | Hassan Alabdulaziz
--------------------------- | ------------ | -------------- | ------------- | ------------------
-Research | Research | Research | Research | Research
-Midterm Report | Midterm Report | Midterm Report | Midterm Report | Midterm Report
-Final Report | Final Report | Final Report | Final Report | Final Report |
+
+* Everyone
+  * Research
+  * Midterm Report
+  * Final Report 
 
 
 ## References
 
-<sub>InterDigitalInc, “InterDigitalInc/CompressAI,” GitHub. [Online]. Available: https://github.com/InterDigitalInc/CompressAI  [Accessed: 13-Apr-2021].</sub>
+[<sub>InterDigitalInc, “InterDigitalInc/CompressAI,” GitHub. [Online]. Available: https://github.com/InterDigitalInc/CompressAI  [Accessed: 13-Apr-2021].</sub>](https://github.com/InterDigitalInc/CompressAI)
 
-<sub>C. Shorten, “Deep Compression,” Medium, 10-Jun-2019. [Online]. Available: https://towardsdatascience.com/deep-compression-7b771b3aa773  [Accessed: 13-Apr-2021].</sub>
+[<sub>C. Shorten, “Deep Compression,” Medium, 10-Jun-2019. [Online]. Available: https://towardsdatascience.com/deep-compression-7b771b3aa773  [Accessed: 13-Apr-2021].</sub>](https://towardsdatascience.com/deep-compression-7b771b3aa773)
 
-<sub>Y. Cheng, D. Wang, P. Zhou, and T. Zhang, “A Survey of Model Compression and Acceleration for Deep Neural Networks,” arXiv.org, 14-Jun-2020. [Online]. Available: https://arxiv.org/abs/1710.09282v9  [Accessed: 13-Apr-2021].</sub>
+[<sub>Y. Cheng, D. Wang, P. Zhou, and T. Zhang, “A Survey of Model Compression and Acceleration for Deep Neural Networks,” arXiv.org, 14-Jun-2020. [Online]. Available: https://arxiv.org/abs/1710.09282v9  [Accessed: 13-Apr-2021].</sub>](https://arxiv.org/abs/1710.09282v9)
 
-<sub>S. Han, H. Mao, and W. J. Dally, “Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding,” arXiv.org, 15-Feb-2016. [Online]. Available: https://arxiv.org/abs/1510.00149  [Accessed: 13-Apr-2021].</sub>
+[<sub>S. Han, H. Mao, and W. J. Dally, “Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding,” arXiv.org, 15-Feb-2016. [Online]. Available: https://arxiv.org/abs/1510.00149  [Accessed: 13-Apr-2021].</sub>](https://arxiv.org/abs/1510.00149)
 
-<sub>A.  Fox, “What is H.265, and Why Is It Better than H.264?,” Make Tech Easier, 07-Aug-2017. [Online]. Available: https://www.maketecheasier.com/h265-vs-h264/#:~:text=increased%20macroblock%20size.-,H.,encoding%20efficiency%20at%20all%20resolutions  [Accessed: 13-Apr-2021].</sub>
+[<sub>A.  Fox, “What is H.265, and Why Is It Better than H.264?,” Make Tech Easier, 07-Aug-2017. [Online]. Available: https://www.maketecheasier.com/h265-vs-h264/#:~:text=increased%20macroblock%20size.-,H.,encoding%20efficiency%20at%20all%20resolutions  [Accessed: 13-Apr-2021].</sub>](https://www.maketecheasier.com/h265-vs-h264/#:~:text=increased%20macroblock%20size.-,H.,encoding%20efficiency%20at%20all%20resolutions)
 
-<sub>“AV1 is a royalty-free video compression format for the web,” Mozilla Research. [Online]. Available: https://research.mozilla.org/av1-media-codecs/  [Accessed: 13-Apr-2021].</sub>
+[<sub>“AV1 is a royalty-free video compression format for the web,” Mozilla Research. [Online]. Available: https://research.mozilla.org/av1-media-codecs/  [Accessed: 13-Apr-2021].</sub>](https://research.mozilla.org/av1-media-codecs/)
 
 ## The Team
 
