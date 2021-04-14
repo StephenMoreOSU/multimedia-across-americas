@@ -56,24 +56,24 @@ Final Report | Final Report | Final Report | Final Report | Final Report |
 
 ## The Team
 
-Felipe Orrico Scognamiglio  
-
-<img src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" data-canonical-src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" width="250" height="250" />
-
-Stephen More  
+Stephen More (Leader) - [mores@oregonstate.edu](mailto:mores@oregonstate.edu)   
 
 <img src="https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg" width="250" height="250" />
 
-Jacob Gillette  
+Felipe Orrico Scognamiglio - [orricosf@oregonstate.edu](mailto:orricosf@oregonstate.edu)   
+
+<img src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" data-canonical-src="https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png" width="250" height="250" />
+
+Jacob Gillette - [gilletja@oregonstate.edu](mailto:gilletja@oregonstate.edu)   
 
 <img src="https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg" width="250" height="250" />
 
 
-Emilio Magaña  
+Emilio Magaña - [maganem@oregonstate.edu](mailto:maganem@oregonstate.edu) 
 
 <img src="https://media.discordapp.net/attachments/829757911298342925/831970096230432848/emilio_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831970096230432848/emilio_-_cropped.jpg" width="250" height="250" />
 
-Hassan Alabdulaziz  
+Hassan Alabdulaziz - [alabduha@oregonstate.edu](mailto:alabduha@oregonstate.edu)  
 
 <img src="https://media.discordapp.net/attachments/829757911298342925/831972317629382666/Hassan_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831972317629382666/Hassan_-_cropped.jpg" width="250" height="250" />
 
