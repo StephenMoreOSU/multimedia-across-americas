@@ -37,6 +37,7 @@ Felipe Orrico Scognamiglio | Stephen More | Jacob Gillette | Emilio Magaña | Ha
 -------------------------- | ------------ | -------------- | ------------- | ------------------
 Research | Research | Research | Research | Research
 Midterm Report | Midterm Report | Midterm Report | Midterm Report | Midterm Report
+Final Report | Final Report | Final Report | Final Report | Final Report |
 
 
 ## References
