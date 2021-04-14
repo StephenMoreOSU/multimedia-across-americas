@@ -10,16 +10,28 @@ Compression is needed to support the many multimedia applications used by engine
 
 ## Background
 
-Background
+Deep Neural Networks (DNNs) have become extremely popular for solving diverse sets of challenges including natural language processing, image recognition, autonomous vehicles, and classification problems which are harder for non-data-driven algorithms to solve. The availability of the datasets needed to train such networks has also increased dramatically in recent years. The usefulness creates a demand for such DNNs to be used across diverse environments with vastly different hardware and bandwidth requirements. Strict hardware requirements such as the amount of memory available are a huge constraint when attempting to apply DNN applications to embedded systems. A classical example of an object detection DNN is AlexNet which requires 240MB of space. While 240MB may be available on higher-end embedded systems, there is still more that is needed. What if multiple networks need to be used simultaneously? (often the case in autonomous vehicles), what if one wants to deploy DNN applications across many lower-cost embedded devices with less memory? What if such embedded devices are communicating with servers over the internet to execute their applications? There will always be a demand for more computers, and the memory required to use DNN applications either over the cloud or on the edge is still a bottleneck for certain applications. This is why it is important to look at the cutting edge of DNN compression and compare the engineering tradeoffs between methodologies.
+
+The old mainstream method of video compression, H.264, was developed in 2003. The newer compression method, H.265, uses 64x64 macroblocks while H.264 uses 16x16 macroblocks. The larger macroblocks allow for better compression efficiency at all resolutions, especially the higher resolutions that most consumers are using today, H.265 supports up to 8k (8192 pixels x 4320 pixels) video compression. H.265 also has better motion prediction and compensation. H.265 uses 33 directions of motion for motion/frame prediction, while H.264 only uses nine directions of motion. H.265 supports parallel processing. Intel has produced processors with instruction sets for encoding and decoding H.265 video, showing a promising future for H.265 even though H.264 is still more commonly used.
+
+AV1 is nearly twice as efficient as H.264, works with high-quality video, has no licensing fee, works with bandwidth constraints. H.265 has uncertainties around its licensing fees making it untenable for an average consumer. AV1’s goal is to replace H.264 and compete with H.265 so the high-quality video can be shared freely and efficiently on the internet. Companies and creators have to pay a royalty to compress and decompress with H.264 and H.265.
 
 ## Taxonomy
 
-For each category of compression
+For each category of compression:
 1. Take 3 examples, find fundamental data from research papers, or if needed clone the repo and get benchmarks ourselves
 1. With gathered data, create visualizations that can compare the findings in an understandable way
 1. Compare the examples using the tradeoff criteria 
 1. Make a conclusion about which compression methodology is good to use in which situation
 1. Compare new techniques with a baseline that is as standard as possible (H.264 for video) 
+
+Tradeoffs:
+1. Usability - How easy is it to use? How widespread is the support for the compression?
+1. Compression density - How much does it reduce file size?
+1. Compression Computational efficiency - How computationally demanding is the process? How long does it take to compress?
+1. Support moving forward - How maintained is the methodology?
+1. Lossy vs Lossless
+
 
 
 ## References
