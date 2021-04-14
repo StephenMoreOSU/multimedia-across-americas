@@ -75,7 +75,7 @@ Emilio Magaña
 
 Hassan Alabdulaziz  
 
-![Hassan]()
+<img src="https://media.discordapp.net/attachments/829757911298342925/831972317629382666/Hassan_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831972317629382666/Hassan_-_cropped.jpg" width="250" height="250" />
 
 
 ## Contact
