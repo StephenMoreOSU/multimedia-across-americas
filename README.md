@@ -36,7 +36,7 @@ Hassan Alabdulaziz
 
 ## References
 
-InterDigitalInc, “InterDigitalInc/CompressAI,” GitHub. [Online]. Available: https://github.com/InterDigitalInc/CompressAI  [Accessed: 13-Apr-2021]. 
+<sub>InterDigitalInc, “InterDigitalInc/CompressAI,” GitHub. [Online]. Available: https://github.com/InterDigitalInc/CompressAI  [Accessed: 13-Apr-2021].</sub>
 
 C. Shorten, “Deep Compression,” Medium, 10-Jun-2019. [Online]. Available: https://towardsdatascience.com/deep-compression-7b771b3aa773  [Accessed: 13-Apr-2021].
 
