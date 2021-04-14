@@ -32,6 +32,9 @@ Tradeoffs for comparison:
 * Support moving forward - How maintained is the methodology?
 * Lossy vs Lossless
 
+## Task Commissioning
+Felipe Orrico Scognamiglio | Stephen More | Jacob Gillette | Emilio Magaña | Hassan Alabdulaziz
+-------------------------- | ------------ | -------------- | ------------- | ------------------
 
 
 ## References
