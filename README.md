@@ -1,8 +1,8 @@
-# Welcome to Multimedia Across Americas
+# Comparing Modern Video Compression Techniques
 
 ## Introduction
 
-Introduction
+Compression, in all of its forms, allows for more efficient delivery of digital information. There are two main types of compression: Lossless compression, and Lossy compression. As of all things, each situation requires a different type of compression, and within each type, there are multiple ways to approach the task. Modern compression techniques, such as HEVC (High-efficiency video coding, also known as H.265) are lossy compression techniques. This survey will analyze and evaluate the multiple available modern standards of video compression, and disclose the tradeoffs and limitations of each of the formats studied.
 
 ## Motivation
 
