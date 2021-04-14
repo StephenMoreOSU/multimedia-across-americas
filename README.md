@@ -52,15 +52,15 @@ Tradeoffs for comparison:
 
 Felipe Orrico Scognamiglio  
 
-![Felipe]()
+![Felipe](https://cdn.discordapp.com/attachments/829757911298342925/831967603378880522/Felipe_Beaver.png)
 
 Stephen More  
 
-![Stephen]()
+![Stephen](https://media.discordapp.net/attachments/829757911298342925/831967460247994368/StephenMore_-_cropped.jpg)
 
 Jacob Gillette  
 
-![Jacob]()
+![Jacob](https://media.discordapp.net/attachments/829757911298342925/831968062625415288/JacobG_-_cropped.jpg)
 
 Emilio Magaña  
 
