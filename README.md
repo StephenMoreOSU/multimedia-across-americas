@@ -65,7 +65,7 @@ Jacob Gillette
 
 Emilio Magaña  
 
-![Emilio]()
+<img src="https://media.discordapp.net/attachments/829757911298342925/831970096230432848/emilio_-_cropped.jpg" data-canonical-src="https://media.discordapp.net/attachments/829757911298342925/831970096230432848/emilio_-_cropped.jpg" width="250" height="250" />
 
 Hassan Alabdulaziz  
 
