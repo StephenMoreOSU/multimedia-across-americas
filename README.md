@@ -33,7 +33,7 @@ Tradeoffs for comparison:
   * Final Report 
 
 ## Midterm Report
-  [Report Link](https://github.com/StephenMoreOSU/multimedia-across-americas/tree/main/Midterm%20Report)
+  [Report Link](https://cdn.discordapp.com/attachments/838861026673295441/839594913430896670/ECE477_MidReport_S2021.pdf)
   
 ## Final Report
 
