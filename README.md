@@ -1,4 +1,4 @@
-# Comparing Modern Video Compression Techniques
+# Comparing Modern Compression Techniques & DNN Compression
 
 ## Introduction
 
