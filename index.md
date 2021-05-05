@@ -33,8 +33,8 @@ Tradeoffs for comparison:
   * Final Report 
 
 ## Midterm Report
-  [PDF]()
-  [LaTeX]()
+  [PDF](https://github.com/StephenMoreOSU/multimedia-across-americas/blob/main/Midterm%20Report/ECE477_MidReport_S2021.pdf)
+  [LaTeX](https://github.com/StephenMoreOSU/multimedia-across-americas/blob/main/Midterm%20Report/ECE477-MidReport-S2021-src.zip)
   
 ## Final Report
 
