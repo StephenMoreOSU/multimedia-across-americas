@@ -24,16 +24,16 @@ Tradeoffs for comparison:
 * Support moving forward - How maintained is the methodology?
 * Lossy vs Lossless
 
+
 ## Task Commissioning
-Felipe Orrico Scognamiglio | Stephen More | Jacob Gillette | Emilio Magaña | Hassan Alabdulaziz
--------------------------- | ------------ | -------------- | ------------- | ------------------
-Research | Research | Research | Research | Research
-Midterm Report | Midterm Report | Midterm Report | Midterm Report | Midterm Report
-Final Report | Final Report | Final Report | Final Report | Final Report |
+
+* Everyone
+  * Research
+  * Midterm Report
+  * Final Report 
 
 ## Midterm Report
-  [PDF]()
-  [LaTeX]()
+  [Report Link](https://github.com/StephenMoreOSU/multimedia-across-americas/tree/main/Midterm%20Report)
   
 ## Final Report
 
