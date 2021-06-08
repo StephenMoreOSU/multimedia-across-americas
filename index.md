@@ -36,6 +36,7 @@ Tradeoffs for comparison:
   [Report Link](https://cdn.discordapp.com/attachments/838861026673295441/839594913430896670/ECE477_MidReport_S2021.pdf)
   
 ## Final Report
+  [Report Link](https://cdn.discordapp.com/attachments/838861026673295441/851948586144235580/ECE477_Report_S2021.pdf)
 
 ## The Team
 
